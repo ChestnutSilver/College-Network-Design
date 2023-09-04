@@ -52,7 +52,7 @@
 
 ##### 2.2 画出网络拓扑图
 
-![image](https://github.com/ChestnutSilver/College-Network-Design/blob/main/pics/网络拓扑图.png)
+![image](https://github.com/ChestnutSilver/College-Network-Design/blob/main/pic/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91%E5%9B%BE.png)
 
 ##### 2.3 给出每个网段的IP范围，子网掩码，默认网关
 
@@ -120,7 +120,7 @@
 
 ##### 2.6 配置学院网站，包括功能版块及初步描述
 
-![image](https://github.com/ChestnutSilver/College-Network-Design/blob/main/pics/学院网站.png)
+![image](https://github.com/ChestnutSilver/College-Network-Design/blob/main/pic/%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99.png)
 
 
 
